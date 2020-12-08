@@ -7,7 +7,6 @@
 
 #include <iostream>
 #include <random>
-#include <cstdlib>
 
 int main() {
     int someRandomNumber;
